@@ -25,7 +25,7 @@ Setup
 Clone this repository:
 
 
-git clone https://github.com/yourusername/excel-automation.git
+git clone https://github.com/SRIRANJANI09/AUTOMATION-IN-PYTHON
 Navigate to the project directory:
 
 
